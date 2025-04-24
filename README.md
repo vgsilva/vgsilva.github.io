@@ -1,2 +1,2 @@
 # vgsilva.github.io
-Meu portfólio
+Um site de portfólio single-page com design clean, eficiente e uso de cores frias.
