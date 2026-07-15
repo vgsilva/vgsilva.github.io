@@ -1,4 +1,4 @@
-# Portfólio Pessoal
+# Portfólio Pessoal (em eterna reconstrução)
 
 Este é o meu portfólio pessoal desenvolvido com HTML5, CSS3 e JavaScript, criado para apresentar minha trajetória como estudante de Sistemas de Informação, meus projetos e minhas habilidades em desenvolvimento de software.
 
